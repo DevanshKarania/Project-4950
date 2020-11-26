@@ -1,0 +1,24 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.header{
+    background-color : wheat;    
+    display: flex;
+    justify-content: space-evenly;
+   }
+h1{
+       color: black;
+   }
+   .item{
+       justify-content: space-evenly;
+       color:black;
+       font-size: larger;
+   }
+   html, body{
+    background-image: url("OrigamiImages/images/download.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
